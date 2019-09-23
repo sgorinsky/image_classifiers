@@ -1,0 +1,4 @@
+model_checkpoint_path: "/Users/samgorinsky/Documents/Workspace/Python/ML/image_classifiers/conv_net_cats_dogs/tf_cat_dog_grey_conv_net.tfl"
+all_model_checkpoint_paths: "/Users/samgorinsky/Documents/Workspace/Python/ML/image_classifiers/conv_net_cats_dogs/conv_grey_net.tflearn-396"
+all_model_checkpoint_paths: "/Users/samgorinsky/Documents/Workspace/Python/ML/image_classifiers/conv_net_cats_dogs/conv_grey_net.tflearn-400"
+all_model_checkpoint_paths: "/Users/samgorinsky/Documents/Workspace/Python/ML/image_classifiers/conv_net_cats_dogs/tf_cat_dog_grey_conv_net.tfl"
